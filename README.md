@@ -1,4 +1,4 @@
-# overwatch-player-icons
+# Overwatch Player Icons
 High resolution player icons from Blizzard's Overwatch
 
 ## Completed Player Icons
