@@ -5,3 +5,4 @@ High resolution player icons from Blizzard's Overwatch
 - [x] Varian Wrynn
 - [x] Peanut Butter
 - [x] Soldier: 76
+- [x] 76
